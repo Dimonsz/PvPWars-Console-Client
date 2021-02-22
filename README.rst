@@ -1,7 +1,5 @@
-pyCraft
+pyCraft Fork
 =======
-
-Shows the chat of the first account in file, to switch type **.switch (account email)** or **.view (account email)**
 
 .. image:: https://travis-ci.org/ammaraskar/pyCraft.svg?branch=master
     :target: https://travis-ci.org/ammaraskar/pyCraft
@@ -10,6 +8,8 @@ Shows the chat of the first account in file, to switch type **.switch (account e
 .. image:: https://coveralls.io/repos/ammaraskar/pyCraft/badge.svg?branch=master 
     :target: https://coveralls.io/r/ammaraskar/pyCraft?branch=master
 
+
+This shows the chat of the first account in file, to switch type **.switch (account email)** or **.view (account email)**
 
 Minecraft Python Client Library!
 
