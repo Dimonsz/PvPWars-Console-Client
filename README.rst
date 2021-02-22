@@ -1,5 +1,7 @@
 pyCraft
 =======
+Shows the chat of the first account in file, to switch type ".switch (account email)" or ".view (account email)"
+=======
 .. image:: https://travis-ci.org/ammaraskar/pyCraft.svg?branch=master
     :target: https://travis-ci.org/ammaraskar/pyCraft
 .. image:: https://readthedocs.org/projects/pycraft/badge/?version=latest
